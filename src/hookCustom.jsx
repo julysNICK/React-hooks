@@ -7,7 +7,7 @@ export const actions = {
 };
 //data.js
 const globalState = {
-  title: 'O título que contexto',
+  title: 'O título que contextoo',
   body: 'O body do contexto',
   counter: 0,
 };
